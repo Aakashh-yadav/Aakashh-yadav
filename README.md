@@ -15,7 +15,7 @@ Looking for a Frontend or Full-Stack role where I can ship real products fast.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://akki-documentation.netlify.app/)
 * ✉️  You can contact me at [Aakashhyadav2001@gmail.com](mailto:Aakashhyadav2001@gmail.com)
-* 🚀  I'm currently working on [Innovaze](http://github.com/Aakashh-yadav/innovaze-frontend)
+* 🚀  I'm currently working on <a href="http://github.com/Aakashh-yadav/innovaze-frontend" target="_blank">Innovaze</a>
 * 🧠  I'm currently learning I am currently focused on expanding my skills frontend development with React, backend with Node.js I am actively working on practical projects to apply these skills and deepen my understanding.
 * 👥  I'm looking to collaborate on intresting projects
 
